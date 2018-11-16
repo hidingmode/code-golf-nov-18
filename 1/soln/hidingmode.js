@@ -1,0 +1,1 @@
+process.stdin.on('data',l=>console.log(`${l}`.split('').sort().join('')))
